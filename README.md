@@ -25,7 +25,7 @@ Projeto construído em curso pela Digital Ocean para o desenvolvimento de um Ful
 
 ## **✨ Como executar**
 - [Backend](./blog-strapi/README.md)
-- [Frontend](./web/README.md)
+- [Frontend](../blog-next/README.md)
 
 
 ## **💛 Contato**

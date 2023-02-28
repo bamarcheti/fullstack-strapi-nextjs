@@ -4,4 +4,4 @@
 
 >- Entre na pasta para iniciar a execução `cd blog-strapi`.
 >- Instale os pacotes com `npm install`.
->- Execute `npm run dev` para iniciar o servidor.
+>- Execute `npm run develop` para iniciar o servidor.
